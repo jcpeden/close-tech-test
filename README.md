@@ -14,7 +14,7 @@ I decided to use [Create React App](https://github.com/facebook/create-react-app
 4. Currently selected items should be visually highlighted.
 5. Currently selected items' names should be shown at the top of the page.
 
-I refactored the original component a little but it should be very much recognisable to the component in JSFiddle.
+I refactored the original component a little but it should be very much recognisable to the component in JSFiddle. I spent a further 10 minutes adding some tests and maybe an additional 10 minutes more sorting out Github and this readme.
 
 ## How I addressed these requirements
 
@@ -28,7 +28,7 @@ Obviously, this allows multiple items to be selected.
 Feel free to judge me harshly. I baulk at some of the rubbish I wrote 12 months ago when I see it. I always think there's room to improve your code but I try to balance perfectionism with the value it delivers to the business.
 
 ### Test coverage
-Probably unnecessary but I've added them nonetheless.
+Probably unnecessary but I've added some test coverage based around your feature requests and the UI nonetheless.
 
 ## Running the app
 
@@ -39,7 +39,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-From here, you'll see a basic form allowing you to input the height, length, width and weight of your package. Once you've done that you can click 'Calculate' and see how the package will to be processed (or not if it's too big/heavy).
+From here, you'll see your original component...the 800 items and a UI through which you can browse/select them.
 
 ### `npm test`
 
